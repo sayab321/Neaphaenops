@@ -1,1 +1,1 @@
-This repository contains data, figures, and scripts related to research project "Phylogeography and population genetics of the Kentucky endemic cave beetle Neaphaenops tellkampfii Erichson (1844)."
+This repository contains data, figures, and scripts related to the research project "Phylogeography and population genetics of the Kentucky endemic cave beetle genus Neaphaenops Jeannel (1920) (Coleoptera: Carabidae: Trechini)."
